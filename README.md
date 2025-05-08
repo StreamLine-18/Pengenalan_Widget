@@ -1,16 +1,18 @@
-# praktikum
+# Pengenalan_Widget
 
-A new Flutter project.
+## Installation
 
-## Getting Started
+Follow these steps to integrate the Flutter widgets from this repository into your project:
 
-This project is a starting point for a Flutter application.
+### 1. Clone the Repository
+First, clone this repository to your local machine:
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+git clone https://github.com/StreamLine-18/Pengenalan_Widget.git
+cd Pengenalan_Widget
+```
+Then, run:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+flutter pub get
+```
