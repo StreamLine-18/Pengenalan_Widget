@@ -1,4 +1,4 @@
-# flutter_application_2
+# praktikum
 
 A new Flutter project.
 
